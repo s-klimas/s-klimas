@@ -6,42 +6,27 @@ I build modern Java backends focused on **performance**, **clean architecture**,
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Philosophy
 
-### 🍳 Recipes Manager
-**Technologies:** Java · Spring Boot · Spring Security · Spring AI · PostgreSQL
+My projects are built around a few consistent principles:
 
-A secure backend for managing recipes, designed to combine classic REST architecture with **AI-powered features**. The project focuses on authentication, clean API design, and practical AI integration (chat and image-to-data). It demonstrates how AI can enhance everyday applications without complicating the system.
+- **Real-world motivation** – I turn everyday problems (shopping, cooking, self-presentation) into engineering challenges.
+- **Learning by building** – each project is designed to explore a specific area: algorithms, performance, security, AI, or deployment.
+- **Engineering trade-offs** – I consciously balance correctness, performance, and maintainability (e.g. heuristics instead of brute force).
+- **Clean architecture** – readable code, clear responsibilities, modular design, and documented APIs.
+- **AI as a tool** – AI is integrated where it adds value and remains configurable and replaceable.
 
----
-
-### 🎟️ Coupon Calculator
-**Technologies:** Java · Spring Boot · Java Streams · Heuristic Algorithms
-
-An algorithmic backend that finds cost-effective ways to apply coupons to shopping carts. The main goal is solving a **computationally hard problem** by balancing accuracy and performance using heuristics. The project teaches practical optimization and engineering trade-offs.
-
----
-
-### 🧠 AI Guesser
-**Technologies:** Java · Spring Boot · Spring AI · OpenAI API
-
-A backend game that lets users play **"20 Questions"** with large language models. Built as a learning project around modern AI tooling, it focuses on clean integration of LLMs, configurability, and modular design. It serves as a playground for experimenting with AI-driven systems.
-
----
-
-### 💼 Portfolio Website
-**Technologies:** Java · Spring MVC · Thymeleaf · Docker
-
-A personal website created to present projects and experience in a structured way. The goal was to learn **deployment, MVC architecture, and basic UI design** while delivering a fully functional, self-hosted application.
+My goal is to build systems that are **useful, understandable, and easy to evolve**, while continuously improving my backend engineering skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend:** Java · Spring Boot · Spring MVC · Spring Security  
-**AI:** Spring AI
+**AI:** Spring AI · OpenAI API  
 **Databases:** PostgreSQL · Hibernate/JPA  
 **API & Docs:** REST · Swagger/OpenAPI  
 **Testing:** JUnit 5 · Mockito · AssertJ  
 **DevOps:** Docker  
 **Other:** Lombok · MapStruct · Liquibase
+
